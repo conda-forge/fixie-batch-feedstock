@@ -1,6 +1,6 @@
 {% set name = "fixie-batch" %}
-{% set version = "0.0.1" %}
-{% set sha256 = "8d88b69c6b6cb4f083be0b018e8cd9bc4e90836cb69694c77e24cf333a169d7e" %}
+{% set version = "0.0.2" %}
+{% set sha256 = "8a49d5ff83206198f7e9a5afdc34929d42f5774f1792615febca5318df4983a5" %}
 
 package:
   name: {{ name|lower }}
